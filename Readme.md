@@ -5,20 +5,20 @@ A small library for adding colors for console.*
 
 ## Installation
 
-  npm install chalk-extend-console --save
+    npm install chalk-extend-console --save
 
 ## Usage
 
-  require('chalk-extend-console').setup();
+    require('chalk-extend-console').setup();
 
-  console.blue('test','another',{
-  	obj: 'test1'
-  });
+    console.blue('test','another',{
+      obj: 'test1'
+    });
 
 ## Tests
 
-  npm test
+    npm test
 
 ## Release History
 
-* 0.1.0 Initial release
+* 0.1.2 Initial release
