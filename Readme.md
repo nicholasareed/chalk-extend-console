@@ -21,4 +21,4 @@ A small library for adding colors for console.*
 
 ## Release History
 
-* 0.1.2 Initial release
+* 0.1.3 Initial release
